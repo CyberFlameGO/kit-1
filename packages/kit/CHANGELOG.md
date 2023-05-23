@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 1.19.0
+
+### Minor Changes
+
+- feat: add `resolvePath` export for building relative paths from route IDs and parameters ([#9949](https://github.com/sveltejs/kit/pull/9949))
+
+### Patch Changes
+
+- fix: avoid creating update check timer on the server ([#10015](https://github.com/sveltejs/kit/pull/10015))
+
 ## 1.18.0
 
 ### Minor Changes
